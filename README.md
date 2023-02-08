@@ -1,1 +1,1 @@
-# altitude-correction
+# Barometric altitude correction 
